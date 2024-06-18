@@ -2,9 +2,9 @@ PROJECT_NAME = "Geometry Operations Documentation"
 
 PYTHON_DOCSTRING = NO
 
-INPUT = mainpage.md geometry.py
+INPUT = README.md geometry.py
 
-USE_MDFILE_AS_MAINPAGE = mainpage.md
+USE_MDFILE_AS_MAINPAGE = README.md
 
 RECURSIVE = YES
 
