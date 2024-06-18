@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['geometry_0',['Geometry',['../dc/dc4/classgeometry_1_1Geometry.html',1,'geometry']]],
-  ['geometry_20operations_20documentation_1',['Geometry Operations Documentation',['../index.html',1,'']]],
-  ['geometry_2epy_2',['geometry.py',['../d4/d40/geometry_8py.html',1,'']]]
+  ['rectangle_5farea_3',['rectangle_area',['../d4/d40/geometry_8py.html#a96f3577d7536da3d4e990e7efc91cfa2',1,'geometry']]],
+  ['rectangle_5fperimeter_4',['rectangle_perimeter',['../d4/d40/geometry_8py.html#aa18196232e6f297b6c4b247b39f97bad',1,'geometry']]]
 ];
