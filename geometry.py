@@ -3,11 +3,6 @@
 @brief This module provides basic geometric operations.
 """
 
-class Geometry:
-    """!
-    @brief Geometry class for basic geometric operations.
-    """
-
 ## @defgroup RectangleGroup Rectangle
 ## @brief Group for all rectangle-related functions.
 ## @{
