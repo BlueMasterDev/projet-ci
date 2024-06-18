@@ -2,7 +2,7 @@ PROJECT_NAME = "Geometry Operations Documentation"
 
 PYTHON_DOCSTRING = NO
 
-INPUT = src mainpage.md geometry.py
+INPUT = mainpage.md geometry.py
 
 USE_MDFILE_AS_MAINPAGE = mainpage.md
 
